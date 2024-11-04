@@ -1,0 +1,1 @@
+Ao criar essa página utilizei os recursos que foram ensinados em aula. Alteração da cor das linhas, cores de fundo, fonte das letras, e por fim, como posicionar todas as linhas e coloca-lás na página.
